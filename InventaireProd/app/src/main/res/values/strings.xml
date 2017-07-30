@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InventaireProd</string>
+    <string name="bouton_ajout">ajouter un produit</string>
+    <string name="liste_produit">produit</string>
+</resources>
